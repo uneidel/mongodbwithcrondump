@@ -1,5 +1,6 @@
-istepanov/mongodump
+mongodbwithcrondump 
 ===================
+mainly based on istepanov/mongodump
 
 Docker image with mongodump running as a cron task
 
